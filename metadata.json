@@ -1,0 +1,5 @@
+{
+  "name": "Remix: plan v2",
+  "description": "ผู้ช่วยสร้างแผนการสอนอัจฉริยะสำหรับครูไทย ออกแบบมาเพื่อลดภาระงานเอกสาร ด้วยระบบ Form-Based Prompting และการแสดงผลแบบ Instant Preview",
+  "requestFramePermissions": []
+}
